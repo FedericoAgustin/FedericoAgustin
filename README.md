@@ -8,10 +8,6 @@ Me apasiona crear soluciones claras, funcionales y bien estructuradas. Actualmen
 
 ## ⚙️ Tecnologías que utilizo
 
-### 🖥️ Lenguajes
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
 ### 🏗️ Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
