@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Federico Agustín
+# 👋 ¡Hola! Soy Federico Agustín Salinas
 
 Soy un desarrollador **Junior** orientado a **Backend**, **Fullstack** y **Frontend**, con experiencia construyendo **APIs REST**, aplicaciones web y proyectos universitarios con bases sólidas en programación.
 
