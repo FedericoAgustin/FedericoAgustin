@@ -1,8 +1,8 @@
 # 👋 ¡Hola! Soy Federico Agustín Salinas
 
-Soy un desarrollador **Junior** orientado a **Backend**, **Fullstack** y **Frontend**, con experiencia construyendo **APIs REST**, aplicaciones web y proyectos universitarios con bases sólidas en programación.
+Soy estudiante universitario y desarrollador **Junior** orientado a **Backend**, **Fullstack** y **Frontend**, con experiencia en la construcción de **APIs REST**, aplicaciones web y proyectos sólidos desarrollados tanto en entornos académicos como laborales.
 
-Me apasiona crear soluciones claras, funcionales y bien estructuradas. Actualmente busco oportunidades donde pueda seguir creciendo, aprender nuevas tecnologías y aportar valor a un equipo de desarrollo.
+Me apasiona crear soluciones claras, funcionales y bien estructuradas. Estoy buscando oportunidades para seguir creciendo, aprender nuevas tecnologías y aportar valor a un equipo de desarrollo.
 
 ---
 
@@ -33,47 +33,45 @@ Me apasiona crear soluciones claras, funcionales y bien estructuradas. Actualmen
 ## 🚀 Proyectos destacados
 
 ### 🔹 **FocusGym**
-Aplicación web enfocada en la gestión de rutinas y control de entrenamiento.  
-Incluye funcionalidades para administrar ejercicios, usuarios y progreso, combinando frontend moderno con backend estructurado.  
+Aplicación web para la gestión de rutinas y control de entrenamiento.  
+Incluye administración de ejercicios, usuarios y progreso, combinando un frontend moderno con un backend organizado.  
 👉 [Ver repositorio](https://github.com/FedericoAgustin/FocusGym)
 
 ---
 
 ### 🔹 **DFAle/proybackendgrupo07**
-API REST desarrollada como parte de un proyecto colaborativo, encargada de manejar toda la lógica del servidor, autenticación, validaciones y acceso a la base de datos.  
-Diseñada para integrarse con el frontend del mismo proyecto, siguiendo buenas prácticas de organización y modularidad.   
+API REST desarrollada en un proyecto colaborativo, encargada de la lógica del servidor, autenticación, validaciones y acceso a base de datos.  
+Diseñada con buenas prácticas de modularidad y organización.  
 👉 [Ver repositorio](https://github.com/DFAle/proybackendgrupo07)
 
 ---
 
 ### 🔹 **DFAle/proyfrontendgrupo07**
-Interfaz web del proyecto grupal, conectada al backend para ofrecer una experiencia de usuario completa.  
-Incluye vistas dinámicas, manejo de formularios y consumo de API REST, implementado con enfoque en usabilidad y claridad del código.  
+Interfaz web conectada al backend del proyecto, con vistas dinámicas, manejo de formularios y consumo de API REST.  
 👉 [Ver repositorio](https://github.com/DFAle/proyfrontendgrupo07)
 
 ---
 
 ## 🧪 Experiencia práctica
 
-Aunque mis repositorios públicos son mayormente universitarios, en mi trabajo actual desarrollo:
+En mi trabajo actual desarrollo:
 
 ### ✅ **APIs REST**
 - Diseño y creación de endpoints  
-- Validación y manejo de datos  
+- Validación y manipulación de datos  
 - Integración con frontend  
-- Uso de bases de datos  
-- Buenas prácticas y organización del código
+- Uso de bases de datos SQL y NoSQL  
+- Aplicación de buenas prácticas de backend
 
-Esta experiencia refuerza mi perfil para roles **Backend Junior** y **Fullstack Junior**.
+Esta experiencia refuerza mi perfil como **Backend Developer Junior** y **Fullstack Junior**.
 
 ---
 
 ## 🌱 Actualmente estoy aprendiendo
 - Buenas prácticas modernas de backend  
-- Creación de APIs REST escalables  
 - Arquitecturas web y escalabilidad  
-- Optimización de consultas SQL y MongoDB  
-- Patrones comunes de desarrollo  
+- Optimización de consultas SQL y en MongoDB  
+- Patrones de diseño comunes  
 
 ---
 
@@ -87,7 +85,6 @@ Busco un equipo donde pueda crecer profesionalmente, aportar soluciones y aprend
 ---
 
 ## 📬 Contacto
-
 - **Email:** [fedeasalinas@gmail.com](mailto:fedeasalinas@gmail.com)  
 - **LinkedIn:** [Federico Agustín Salinas](https://www.linkedin.com/in/federicoagustinsalinas/)
 
